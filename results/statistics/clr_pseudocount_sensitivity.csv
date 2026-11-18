@@ -1,0 +1,7 @@
+basis,pseudocount,focal_contrast_delta_clr,n_species_q_below_0.05,n_species
+species-level CLR basis,1e-06,-0.9357330772731534,3,9
+species-level CLR basis,0.0001,-0.7427982711579607,4,9
+species-level CLR basis,0.001,-0.5539060783318587,6,9
+all 16 species,1e-06,-0.9320553780087906,4,16
+all 16 species,0.0001,-0.6937534282218796,10,16
+all 16 species,0.001,-0.5012360511519226,11,16

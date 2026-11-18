@@ -1,0 +1,17 @@
+species	species_name	strain	in_three_species_community	streptomycin_MIC_ancestral	streptomycin_MIC_resistance_evolved
+HAMBI_0006	Pseudomonas putida	HAMBI 6	False	20	20
+HAMBI_0105	Agrobacterium tumefaciens	HAMBI 105	False	160	160
+HAMBI_0403	Comamonas testosteroni	HAMBI 403	False	40	40
+HAMBI_1287	Citrobacter koseri	HAMBI 1287	True	>160	>160
+HAMBI_1292	Morganella morganii	HAMBI 1292	False	20	20
+HAMBI_1299	Kluyvera intermedia	HAMBI 1299	False	20	20
+HAMBI_1842	Sphingobium yanoikuyae	HAMBI 1842	False	>160	>160
+HAMBI_1896	Sphingobacterium spiritivorum	HAMBI 1896	False	>160	>160
+HAMBI_1972	Aeromonas caviae	HAMBI 1972	True	20	>160
+HAMBI_1977	Pseudomonas chlororaphis	HAMBI 1977	True	20	20
+HAMBI_2160	Bordetella avium	HAMBI 2160	False	40	40
+HAMBI_2164	Cupriavidus oxalaticus	HAMBI 2164	False	40	40
+HAMBI_2443	Paracoccus denitrificans	HAMBI 2443	False	10	10
+HAMBI_2659	Stenotrophomonas maltophilia	HAMBI 2659	False	>160	>160
+HAMBI_3031	Niabella yanshanensis	HAMBI 3031	False	>160	>160
+HAMBI_3237	Microvirga lotononidis	HAMBI 3237	False	10	10
