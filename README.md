@@ -93,7 +93,7 @@ flips. Confidence intervals are percentile bootstrap intervals from resampling l
 history. Random seeds are fixed, so every result is reproduced exactly.
 
 Community states are found by entropy-penalized spatial segmentation, developed by Dovydas
-Kičiatovas and Mikko Kivikoski: adjacent environments are merged greedily while the increase in
+Kičiatovas: adjacent environments are merged greedily while the increase in
 within-state compositional heterogeneity (a generalized Jensen–Shannon loss) is smaller than the
 penalty for the boundary removed, subject to a maximum Bray–Curtis diameter of a state. The
 method is described in `notebooks/00_setup_and_functions.ipynb`. Generative AI tools were used
