@@ -73,9 +73,9 @@ species counts with the hambiAmplicon workflow (gitlab.utu.fi/slhogl/hambiAmplic
 |---|---|---|
 | `01_community_states.ipynb` | segmentation of each landscape into community states; boundary configuration, region dependence and orientation; number and size of states; dominant species at inhibitory doses; boundary change versus focal-species sensitivity | Figures 2, S1–S4; Table S1 |
 | `02_alpha_diversity.ipynb` | Shannon Index responses | Figures 3, S5, S6; Tables S2, S3 |
-| `03_low_dose_response.ipynb` | antibiotic responses in log-ratio space; focal-species response at 2 µg ml⁻¹ along carbon; focal and non-focal responses; species-level contrasts | Figures 4, S7; Tables S4–S7, S13, S14 |
-| `04_resistance_filtering.ipynb` | enrichment of high-MIC taxa among non-focal species; MIC class and species response | Figures S8, S9; Tables S8, S9 |
-| `05_growth_traits.ipynb` | monoculture growth traits and competitive position in three-species communities | Figures 5, S10–S12; Tables S10–S12 |
+| `03_low_dose_response.ipynb` | antibiotic responses in log-ratio space; focal-species response at 2 µg ml⁻¹ along carbon; focal and non-focal responses; species-level contrasts | Figures 4, S7; Tables S4–S9 |
+| `04_resistance_filtering.ipynb` | enrichment of high-MIC taxa among non-focal species; MIC class and species response | Figures S8, S9; Tables S10, S11 |
+| `05_growth_traits.ipynb` | monoculture growth traits and competitive position in three-species communities | Figures 5, S10–S12; Tables S12–S14 |
 
 `results/statistics/` holds the statistics that are reported in the text but not in a
 Supplementary Table: dominant species at 20 and 200 µg ml⁻¹ (`dominance_at_inhibitory_doses.csv`),
